@@ -35,7 +35,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. A
 
 ## 🔗 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](viniciolimaa)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([viniciolimaa](https://www.linkedin.com/in/viniciolimaa/))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.vinicio@gmail.com)
 
 ---
