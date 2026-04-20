@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Vinicio Lima! 👋</h1>
-<p align="center">Full-Stack Developer · Fortaleza, CE 🌴</p>
+<h1 align="center">Olá, eu sou Vinicio Lima! </h1>
+<p align="center">Full-Stack Developer · Fortaleza, CE </p>
 
 ---
 
 Desenvolvedor apaixonado por sistemas escaláveis e interfaces que fazem sentido. Trabalho na **ALECE** (Assembleia Legislativa do Ceará) desenvolvendo portais, sistemas parlamentares e integrações com ferramentas open source. Nas horas livres, construo projetos próprios e mexo com Linux.
 
-## 🛠️ Stack principal
+##  Stack principal
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -17,11 +17,11 @@ Desenvolvedor apaixonado por sistemas escaláveis e interfaces que fazem sentido
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 💼 Experiência
+##  Experiência
 
 Atualmente desenvolvendo sistemas internos e portais públicos na **Assembleia Legislativa do Ceará (ALECE)** — portais de transparência, gestão de comissões parlamentares e integrações entre sistemas (GLPI, OpenProject).
 
-## 📫 Contato
+##  Contato
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/viniciolimaa/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.vinicio@gmail.com)
