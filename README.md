@@ -19,7 +19,8 @@ Desenvolvedor apaixonado por sistemas escaláveis e interfaces que fazem sentido
 
 ##  Experiência
 
-Atualmente desenvolvendo sistemas internos e portais públicos na **Assembleia Legislativa do Ceará (ALECE)** — portais de transparência, gestão de comissões parlamentares e integrações entre sistemas (GLPI, OpenProject).
+Atualmente desenvolvendo sistemas internos e portais públicos na **Assembleia Legislativa do Ceará (ALECE)**:
+portais de transparência, gestão de comissões parlamentares e integrações entre sistemas (GLPI, OpenProject).
 
 ##  Contato
 
