@@ -27,8 +27,3 @@ Atualmente desenvolvendo sistemas internos e portais públicos na **Assembleia L
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dev.vinicio@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciolimadev&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciolimadev&layout=compact&hide_border=true" height="150" />
-</p>
